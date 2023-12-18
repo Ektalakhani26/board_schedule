@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384219556353",
+    "project_id": "gseb-schedule",
+    "storage_bucket": "gseb-schedule.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384219556353:android:51290d8e6ceb04ecb16e00",
+        "android_client_info": {
+          "package_name": "com.example.GSEB_Schedule"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQi5Cua8Kf3Tr4XPHtps8D7QxL_RF2fvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
